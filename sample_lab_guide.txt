@@ -1,0 +1,24 @@
+# SAMPLE ONLY — Basic Ohm's Law Verification
+
+This example is fictional teaching content for demonstrating the app. Replace it with the instructor-approved handout and syllabus before assessment or lab use.
+
+## Aim
+Observe how current through a resistor changes with applied voltage, and compare measurements with Ohm's law. This guide is conceptual; it does not authorize connecting equipment.
+
+## Theory
+For an ohmic resistor under approximately constant physical conditions, voltage V, current I, and resistance R are related by V = I × R. If V is known and R is nonzero, the ideal current is I = V / R. Real measurements may differ because of instrument limits, component tolerance, temperature, wiring, and reading uncertainty.
+
+## Apparatus
+An instructor-approved low-voltage DC supply, resistor, digital multimeter, connecting leads, and a data table. Use only the ratings and setup specified by the instructor and equipment manuals.
+
+## Procedure overview
+The instructor checks the circuit and instrument ranges before any power is applied. Record the approved voltage and current readings at several settings. Power must be isolated before changing connections. Plot current against voltage and compare the trend with the ideal relation. Follow the actual lab manual for the full procedure.
+
+## Safety
+Do not build or energize a circuit from this sample document. Ask the instructor to approve the circuit, supply setting, resistor rating, meter connections, and measurement range. Isolate power before changing wiring. Never exceed equipment or component ratings. Report damaged leads or unexpected readings immediately.
+
+## Sources of error
+Possible sources include resistor tolerance, meter resolution, lead/contact resistance, temperature change, unstable supply output, and transcription error. Repeat readings only under the instructor's approved procedure.
+
+## Expected interpretation
+For an ohmic resistor with stable conditions, a graph of current against voltage should be approximately linear. The slope is related to conductance (1/R). A non-linear trend may indicate changing conditions, component behavior, setup issues, or measurement error; it should be investigated with the instructor.
